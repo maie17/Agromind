@@ -1,0 +1,8 @@
+
+{
+  "name": "fyo AI Commercial Copilot",
+  "description": "An intelligent commercial assistant for the agricultural sector that analyzes sales meetings, detects opportunities in grain trading, financing, and inputs, and suggests the next best action for the fyo sales team.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
